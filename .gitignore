@@ -1,22 +1,3 @@
-# Ignorar core de WordPress
-# wp-admin/
-# wp-includes/
-
-# Ignorar uploads (archivos subidos)
-wp-content/uploads/
-
-# Ignorar plugins descargados (solo incluye los tuyos personalizados)
-wp-content/plugins/*
-!wp-content/plugins/mi-plugin-personal/
-
-# Ignorar temas (excepto los desarrollados por ti)
-wp-content/themes/*
-!wp-content/themes/mi-tema-personalizado/
-
-# Ignorar archivos del sistema
-*.log
-*.sql
-*.zip
 .DS_Store
 .env
 
