@@ -1,6 +1,6 @@
 # Ignorar core de WordPress
-wp-admin/
-wp-includes/
+# wp-admin/
+# wp-includes/
 
 # Ignorar uploads (archivos subidos)
 wp-content/uploads/
