@@ -1,6 +1,2 @@
 .DS_Store
 .env
-
-# Ignorar dependencias (si usas npm o composer)
-node_modules/
-vendor/
